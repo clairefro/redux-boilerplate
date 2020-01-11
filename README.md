@@ -13,3 +13,4 @@ Simple React + Redux starter with the following config:
 **Added by clairefro:**
 - setup for middleware
 - redux-logger
+- redux-promise
